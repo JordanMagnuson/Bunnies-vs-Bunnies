@@ -8,10 +8,13 @@ Graphics by Mitchell Hillman
 
 Built with:		GameMaker 8.1
 
+Extensions used:	GM Windows Dialogs (built into GM 8.1)
+
+
 The source code for this game is released under the MIT license: use it
 in whatever way you'd like. If you find it helpful, or make anything
-particular with it, I'd love to hear about it! Send an email to
-jordan@necessarygames.com.
+particular with it, I'd love to hear about it! Find me on Twitter at
+@JordanMagnuson
 
 At last check, GameMaker 8.1 could be downloaded from:
 https://archive.org/details/GameMaker81
@@ -34,7 +37,7 @@ normal play. There are only five levels total in the game.
 QUESTIONS, COMMENTS, BUGS?
 ------------------------------------------------------------------------
 
-Send an email to jordan@necessarygames.com.
+Contact me at @JordanMagnuson
 
 Thank you for taking the time to play this game!
 

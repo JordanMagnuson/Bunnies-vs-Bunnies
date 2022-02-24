@@ -8,6 +8,9 @@ Graphics by Mitchell Hillman
 
 Built with:		GameMaker 8.1
 
+Extensions used:	GM Windows Dialogs (built into GM 8.1)
+
+
 The source code for this game is released under the MIT license: use it
 in whatever way you'd like. If you find it helpful, or make anything
 particular with it, I'd love to hear about it! Find me on Twitter at
