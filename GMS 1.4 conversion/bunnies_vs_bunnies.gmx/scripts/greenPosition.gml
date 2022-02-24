@@ -1,0 +1,1 @@
+characterPosition(color);
