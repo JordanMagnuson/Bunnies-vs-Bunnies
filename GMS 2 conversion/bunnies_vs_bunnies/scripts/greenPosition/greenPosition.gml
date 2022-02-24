@@ -1,0 +1,5 @@
+function greenPosition() {
+	characterPosition(color);
+
+
+}

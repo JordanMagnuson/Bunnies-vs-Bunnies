@@ -1,0 +1,5 @@
+function bunnyPosition() {
+	characterPosition(color);
+
+
+}
