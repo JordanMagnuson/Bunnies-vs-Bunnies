@@ -1,0 +1,24 @@
+The Bunnies vs. Bunnies source code, sprites, and music are all 
+released for use under this creative commons license:
+http://creativecommons.org/licenses/by/3.0/
+
+Basically, you can use and distribute them in any way you want,
+but attribution is always nice :)
+
+Please attribute the source code to:
+Jordan Magnuson, necessarygames.com
+
+The graphics to:
+Mitchell Hillman, mitchellhillman.com
+
+The music to:
+Kevin MacLeod, incompetech.com
+
+And the font to:
+Anna Anthropy, auntiepixelante.com
+
+
+Also, it's always sweet to hear about someone using your
+code, so if you wouldn't mind, please send a note about your
+project to jordan@necessarygames.com. Thanks!
+

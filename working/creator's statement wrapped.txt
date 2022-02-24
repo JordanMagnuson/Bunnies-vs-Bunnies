@@ -1,0 +1,44 @@
+Bunnies vs. Bunnies is my first attempt to create a game about oppression, subjugation, and genocide. 
+It was created for the mini Ludum Dare #14 48-hour game making competition; the competition was 
+extended, and the game was finished in five days. The theme of the competition was "Tragedy and/or 
+Comedy." I decided to go with the tragedy theme, and to tackle it head on in a serious way. I started 
+out wanting to make a game specifically about the oppression of Palestinians in Israel, but partly due 
+to the time constraints of the competition, the game ended up being more general, and about 
+genocide. 
+I wanted to create a game about large-scale subjugation because I have spent a large portion of my life 
+in the Middle East, and the oppression of the Palestinians there has had a deep impact on me. I didn't 
+mind turning more generally to the topic of genocide, because I have lived in Africa, and genocide is a 
+stark reality there (though not in the countries I have lived in). I wanted to make a game about these 
+realities because they are realities that are not often addressed in computer games, and I want them 
+to be, because I want computer games to speak to all areas of human life and experience, all over the 
+world. As Anna Anthropy has said, "we must make games we wish to play in the world."
+I say that computer games don't often address the issues of subjugation and genocide, but of course 
+that's not true: every other RTS or strategy game out there is about wiping out a nation, or a race. We 
+have done worse than not address these issues: we have abstracted and trivialized them. And so I 
+wanted to make a game that was not only about genocide, but also about computer games, and the 
+way they treat genocide. I wanted to create a game that started out just like any other resource 
+management game (a "cute" one, at that), but that slowly progressed to making the player aware of 
+their complicity in genocide, in a more obvious, blatant way than other games did. 
+Another of my goals (made almost necessary by the theme) was to get away from the clichéd and 
+unrealistic idea of "balancing sides" common to almost all strategic and tactical computer games. I 
+wanted to present the player with a game where the sides were blatantly unbalanced, and nothing 
+was fair. 
+I chose bunnies to represent people because they are cute, and make the theme of genocide that 
+much starker, and more troubling; I wanted to try and somehow work in the "comedy" theme of the 
+competition, if only tangentially, and in a very dark way. Also, rabbits have a prodigious history of 
+anthropomorphization, extending from the works of Beatrix Potter to Richard Adams' Watership 
+Down, so they seemed to suit the game's satirical purpose well. 
+Whether I succeeded at all or any of my goals-or, more importantly, whether I succeeded in an 
+effective way-is entirely up to you to determine. Personally, I am happy with the outcome as 
+representing the creative output of five days' labor, but I see a lot that falls short. On the gameplay 
+level, the mechanics need to be honed and refined, if the game is to pull people in as I desire it should. 
+Then there is the level progression, and how the game deals with its theme of genocide. I struggle to 
+know whether the game is too obvious, too heavy handed, or (incredibly) whether it is not obvious 
+enough, as some players' comments would indicate. 
+On the whole, I have not yet decided whether I want to pursue the game further, or let it rest where it 
+is. I like the idea of extending the game and turning it multiplayer, so that it would stress imbalance 
+even more: making it a game in which you would oppress not a computer-controlled rabbit nation, but 
+one controlled by another human being, where they never had a chance to win.
+Jordan Magnuson
+Gunsan, Korea
+December 2009

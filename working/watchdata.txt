@@ -1,0 +1,4 @@
+global.countThirstyBunnies
+global.countBunnies
+oGame.maxBunnyPop
+global.countAdultBunnies
