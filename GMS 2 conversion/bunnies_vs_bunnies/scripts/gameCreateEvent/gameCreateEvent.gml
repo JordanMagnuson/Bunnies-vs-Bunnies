@@ -1,4 +1,7 @@
 function gameCreateEvent() {
+	// Random seed.
+	randomize();
+	
 	//Fade room in
 	instance_create(0,0,oFadeIn);
 
