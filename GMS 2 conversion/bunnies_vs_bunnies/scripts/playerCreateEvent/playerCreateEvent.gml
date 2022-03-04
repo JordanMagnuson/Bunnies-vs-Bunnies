@@ -27,6 +27,7 @@ function playerCreateEvent() {
 	climbingLadder = false;
 	canUpClimb = false;
 	canDownClimb = false;
+	canPressJump = true;
 	buildIndex = SETTLEMENT;
 	fallingLadder = false;
 	playerOriginX = x;
