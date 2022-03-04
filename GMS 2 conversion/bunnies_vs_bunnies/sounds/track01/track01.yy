@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "track01",
-  "duration": 0.0,
+  "soundFile": "track01.mp3",
+  "duration": 201.0,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
