@@ -1,10 +1,16 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sSolidBunny",
+    "path": "sprites/sSolidBunny/sSolidBunny.yy",
+  },
   "solid": true,
   "visible": false,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oSolid",
+    "path": "objects/oSolid/oSolid.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 0,
@@ -25,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSolidBunny_objects",
+  "name": "oSolidBunny",
   "tags": [],
   "resourceType": "GMObject",
 }

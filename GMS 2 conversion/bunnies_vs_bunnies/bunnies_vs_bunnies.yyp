@@ -1,7 +1,7 @@
 {
   "resources": [
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},"order":1,},
-    {"id":{"name":"oSolidBunny","path":"sprites/oSolidBunny/oSolidBunny.yy",},"order":3,},
+    {"id":{"name":"sSolidBunny","path":"sprites/sSolidBunny/sSolidBunny.yy",},"order":3,},
     {"id":{"name":"sSolidGreen","path":"sprites/sSolidGreen/sSolidGreen.yy",},"order":5,},
     {"id":{"name":"sBunnyRight","path":"sprites/sBunnyRight/sBunnyRight.yy",},"order":7,},
     {"id":{"name":"sBunnySettlement","path":"sprites/sBunnySettlement/sBunnySettlement.yy",},"order":9,},
@@ -148,7 +148,7 @@
     {"id":{"name":"oGreenSettlement","path":"objects/oGreenSettlement/oGreenSettlement.yy",},"order":33,},
     {"id":{"name":"oLadder","path":"objects/oLadder/oLadder.yy",},"order":35,},
     {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},"order":37,},
-    {"id":{"name":"oSolidBunny_objects","path":"objects/oSolidBunny_objects/oSolidBunny_objects.yy",},"order":39,},
+    {"id":{"name":"oSolidBunny","path":"objects/oSolidBunny/oSolidBunny.yy",},"order":39,},
     {"id":{"name":"oSolidGreen","path":"objects/oSolidGreen/oSolidGreen.yy",},"order":41,},
     {"id":{"name":"oGreen","path":"objects/oGreen/oGreen.yy",},"order":57,},
     {"id":{"name":"oBunny","path":"objects/oBunny/oBunny.yy",},"order":53,},
