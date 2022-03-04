@@ -181,6 +181,7 @@
     {"id":{"name":"oFenceWhiteRight","path":"objects/oFenceWhiteRight/oFenceWhiteRight.yy",},"order":93,},
     {"id":{"name":"oFenceWhiteLeft","path":"objects/oFenceWhiteLeft/oFenceWhiteLeft.yy",},"order":95,},
     {"id":{"name":"oFenceBrownLeft","path":"objects/oFenceBrownLeft/oFenceBrownLeft.yy",},"order":97,},
+    {"id":{"name":"sUkraineFlag","path":"sprites/sUkraineFlag/sUkraineFlag.yy",},"order":120,},
     {"id":{"name":"oFenceBrownRight","path":"objects/oFenceBrownRight/oFenceBrownRight.yy",},"order":99,},
     {"id":{"name":"oFadeOut","path":"objects/oFadeOut/oFadeOut.yy",},"order":101,},
     {"id":{"name":"oFadeIn","path":"objects/oFadeIn/oFadeIn.yy",},"order":103,},
