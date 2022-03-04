@@ -8,16 +8,16 @@ function characterCreateEvent() {
 	THIRST = 51;
 
 	//Constants to change
-	HSPEED_MAX = 4;
+	HSPEED_MAX = 4 * 30/room_speed;
 	if (object_index == oBunnySmall || object_index == oGreenSmall)
-	  HSPEED_MAX = 2;
-	VSPEED_MAX = 15;
-	HACC = .5;
-	HDEC = .5;
-	SKID = .6;
-	JUMP_VEL = -13;
-	GRAV = .9;
-	CLIMB_SPEED = 4;
+	  HSPEED_MAX = 2 * 30/room_speed;
+	VSPEED_MAX = 15 * 30/room_speed;
+	HACC = .5 * sqr(30/room_speed);
+	HDEC = .5 * sqr(30/room_speed);
+	SKID = .6 * 30/room_speed;
+	JUMP_VEL = -13 * 30/room_speed;
+	GRAV = .9 * sqr(30/room_speed);
+	CLIMB_SPEED = 4 * 30/room_speed;
 
 	//Initialization 
 	facing = 1;
@@ -46,7 +46,7 @@ function characterCreateEvent() {
 	rightbounds = room_width;
 
 	walk_img = 0;
-	walk_spd = 1/2;
+	walk_spd = 1/2 * 30/room_speed;
 
 	alarm[3] = 150;
 

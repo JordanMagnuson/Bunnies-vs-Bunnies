@@ -1,7 +1,7 @@
 {
   "option_gameguid": "{B76B5FF5-A775-475B-A744-AFFD23F325DE}",
   "option_gameid": "457175066",
-  "option_game_speed": 30,
+  "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
   "option_draw_colour": 4294967295,
   "option_window_colour": 255,
@@ -9,7 +9,7 @@
   "option_sci_usesci": false,
   "option_author": "",
   "option_collision_compatibility": false,
-  "option_lastchanged": "04 March 2022 9:41:19",
+  "option_lastchanged": "04 March 2022 11:52:20",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
   "option_template_icon": "${base_options_dir}/main/template_icon.png",

@@ -7,14 +7,14 @@ function playerCreateEvent() {
 	TURRET = 4;
 
 	//Constants to change
-	HSPEED_MAX = 6;
-	VSPEED_MAX = 15;
-	HACC = 1;
-	HDEC = .5;
-	SKID = .6;
-	JUMP_VEL = -13;
-	GRAV = .9;
-	CLIMB_SPEED = 4;
+	HSPEED_MAX = 6 * 30/room_speed;
+	VSPEED_MAX = 15 * 30/room_speed;
+	HACC = 1 * sqr(30/room_speed);
+	HDEC = .5 * sqr(30/room_speed);
+	SKID = .6 * 30/room_speed;
+	JUMP_VEL = -13 * 30/room_speed;
+	GRAV = .9 * sqr(30/room_speed);
+	CLIMB_SPEED = 4 * 30/room_speed;
 	HEALTH_MAX = 100;
 
 	//Initialization 
@@ -43,7 +43,7 @@ function playerCreateEvent() {
 	rightbounds = room_width;
 
 	walk_img = 0;
-	walk_spd = 1/2;
+	walk_spd = 1/2 * 30/room_speed;
 
 
 
