@@ -3,8 +3,9 @@ function gameAlarm2Timer() {
 	global.secondsLeft = global.timer mod 60;
 	global.timer -= 1;
 
-	if (global.timer <= 0)
-	  restartLevelmessage()
+	// NOTE: restartLevelmessage() relies on old GM 8 extension, so will not work in GMS2.
+	//if (global.timer <= 0)
+	//  restartLevelmessage()
 
 	//Timer end
 	/*
