@@ -9,5 +9,5 @@ else
   sprite_index=sTurretLeft;   
   direction = 180;
 }
-turretOn = 0;
+turretOn = 1;
 action_set_alarm(5, 0);
