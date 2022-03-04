@@ -5,7 +5,7 @@ draw_set_alpha(1);
 
 //Sky
 draw_set_color($a37600);
-draw_rectangle(x,y,x+800,y+80,false);
+draw_rectangle(x,y,x+1067,y+80,false);
 
 //Version number
 draw_set_color(c_black);
