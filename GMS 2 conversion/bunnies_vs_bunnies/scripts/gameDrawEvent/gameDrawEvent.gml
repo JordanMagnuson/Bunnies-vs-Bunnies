@@ -28,6 +28,7 @@ function gameDrawEvent() {
 	*/
   
 	//Left side of screen
+	draw_set_font(global.font5);	// Use sprite font from original game to avoid alignment issues.
 	draw_set_halign(fa_left);
 	hDrawLine = x;
 	vDrawLine = y + 6;
