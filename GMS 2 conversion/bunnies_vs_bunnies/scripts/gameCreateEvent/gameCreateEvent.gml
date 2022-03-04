@@ -36,7 +36,8 @@ function gameCreateEvent() {
 
 
 	//Cursor
-	cursor_sprite = sCrosshair;
+	// cursor_sprite doesn't scale properly. Use oCursor object instead.
+	//cursor_sprite = sCrosshair;
 
 	//Initialize Font Sprite (Casual Encounter from Auntiepixelante.com). Number indicates size.
 	global.font5=font_add_sprite(sFontCasualEncounter5,ord("!"),1,2);

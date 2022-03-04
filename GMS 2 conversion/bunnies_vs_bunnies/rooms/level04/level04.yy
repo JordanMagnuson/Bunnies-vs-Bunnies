@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oGameL4","path":"objects/oGameL4/oGameL4.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_B6675A40","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oCursor","path":"objects/oCursor/oCursor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":32.0,"resourceVersion":"1.0","name":"inst_206EE110","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":-999,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Compatibility_Instances_Depth_-999","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer1","path":"objects/oPlayer1/oPlayer1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":200.0,"y":520.0,"resourceVersion":"1.0","name":"inst_8DDC4330","tags":[],"resourceType":"GMRInstance",},
@@ -1216,6 +1217,7 @@
     {"name":"inst_7B545AE8","path":"rooms/level04/level04.yy",},
     {"name":"inst_8DDC4330","path":"rooms/level04/level04.yy",},
     {"name":"inst_B6675A40","path":"rooms/level04/level04.yy",},
+    {"name":"inst_206EE110","path":"rooms/level04/level04.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

@@ -85,6 +85,7 @@
     {"id":{"name":"characterXVel","path":"scripts/characterXVel/characterXVel.yy",},"order":3,},
     {"id":{"name":"characterYVel","path":"scripts/characterYVel/characterYVel.yy",},"order":5,},
     {"id":{"name":"characterPosition","path":"scripts/characterPosition/characterPosition.yy",},"order":7,},
+    {"id":{"name":"oCursor","path":"objects/oCursor/oCursor.yy",},"order":122,},
     {"id":{"name":"characterUnstick","path":"scripts/characterUnstick/characterUnstick.yy",},"order":9,},
     {"id":{"name":"characterWander","path":"scripts/characterWander/characterWander.yy",},"order":11,},
     {"id":{"name":"bunnyCreateEvent","path":"scripts/bunnyCreateEvent/bunnyCreateEvent.yy",},"order":1,},
