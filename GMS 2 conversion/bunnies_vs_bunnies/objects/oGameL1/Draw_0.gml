@@ -16,7 +16,7 @@ if (global.minutesLeft > 0)
 else
   draw_text(1200,440,"Continue to build burrows until your population reaches 20 rabbits.#You have " + string(global.secondsLeft) + " seconds left.#The brown bunnies are breeding.");
 */
-draw_text(1180,440,string_hash_to_newline("Continue to build burrows until your population reaches 20 adult rabbits.##Remember: the brown bunnies are breeding."));
+draw_text(1180,440,string_hash_to_newline("Continue to build burrows until your population reaches 20 adult rabbits.##Remember: those other bunnies are breeding."));
 draw_text(1520,100,string_hash_to_newline("A burrow's reach is limited. Choose locations wisely to claim multiple resources."))
 
 /* */
