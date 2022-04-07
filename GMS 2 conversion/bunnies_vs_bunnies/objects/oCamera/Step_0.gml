@@ -30,9 +30,9 @@ if (follow != noone) {
 x_mov = (x_to - x) / camera_movement_lag;
 y_mov = (y_to - y) / camera_movement_lag;
 
-if (abs(x_mov) < camera_movement_precision)
+if (abs(x_mov) < camera_movement_min)
 	x_mov = 0;
-if (abs(y_mov) < camera_movement_precision)
+if (abs(y_mov) < camera_movement_min)
 	y_mov = 0;
 	
 //show_debug_message("x_mov: " + string(x_mov));

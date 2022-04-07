@@ -119,8 +119,9 @@ y_to = y;
 // Set camera movement characteristics.
 // camera_movement_lag determines how long it takes camera to catch up to objects it is following.
 // camera_movement_precision determines pixel precision of camera movement.
-camera_movement_lag = 1;
-camera_movement_precision = 0.01;
+camera_movement_lag = 20;
+camera_movement_precision = 0.02;
+camera_movement_min = 0.5;
 
 // Don't change anything below.
 last_browser_width = browser_width;
