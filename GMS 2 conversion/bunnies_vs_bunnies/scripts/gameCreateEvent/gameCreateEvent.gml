@@ -7,6 +7,7 @@ function gameCreateEvent() {
 	
 	// Camera settings.
 	global.SET_CAMERA_HEIGHT_540 = true;	// Force view height to 540, for nice widescreen pixel scaling?
+	global.HUD_HEIGHT = 20;
 
 	//Global constants
 	global.SETTLEMENT_COST = 100;

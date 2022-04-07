@@ -104,17 +104,15 @@ if (instance_exists(oPlayer1)) {
 	show_debug_message("follow true");
 	follow = oPlayer1;
 	x = follow.x;
-	if (global.SET_CAMERA_HEIGHT_540) 
-		y = room_height / 2 + 10;
-	else 
-		y = room_height / 2
 }
 else {
 	show_debug_message("follow false");
 	follow = noone;
-	x = room_width / 2;
-	y = room_height / 2;
 }
+if (global.SET_CAMERA_HEIGHT_540) 
+	y = room_height / 2 + global.HUD_HEIGHT/2;
+else 
+	y = room_height / 2
 x_to = x;
 y_to = y;
 

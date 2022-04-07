@@ -1,21 +1,32 @@
 // TODO: Almost all this stuff should be moved to Draw GUI event.
 function gameDrawEvent() {
-	x = __view_get( e__VW.XView, 0 );
-	y = 0;
 	draw_set_alpha(1);
 	depth = 5000;
-
-	//HUD bar
-	draw_set_color(c_black);
-	draw_rectangle(x,y,x+1067,y+20,false);
-
+	
+	x = __view_get( e__VW.XView, 0 );
+	y = 0;
+	
 	//Sky
 	draw_set_color($a37600);
-	draw_rectangle(x,y+20,x+1067,y+60,false);
+	draw_rectangle(x,y,x+1067,y+60,false);	
+	
+	// Adjust y position based on view size compared to room size.
+	if (global.SET_CAMERA_HEIGHT_540) {
+		y += (room_height - oCamera.view_height) - global.HUD_HEIGHT;
+	}
+
+	//HUD bar
+	//draw_set_color(c_black);
+	//draw_rectangle(x,y,x+1067,y+20,false);
 
 	//Deep earth
 	draw_set_color($133960);
-	draw_rectangle(x,y+565,x+1067,y+600,false);
+	if (global.SET_CAMERA_HEIGHT_540) {
+		draw_rectangle(x,y+oCamera.view_height+global.HUD_HEIGHT-35,x+oCamera.view_width,y+oCamera.view_height,false);
+	}
+	else {
+		draw_rectangle(x,y+565,x+1067,y+600,false);
+	}
 
 	draw_set_color(c_white);
 
@@ -92,7 +103,7 @@ function gameDrawEvent() {
 	//Right side of screen 
 	////////////////////////////////////
 	draw_set_halign(fa_right);
-	hDrawLine = x + 1067;
+	hDrawLine = x + oCamera.view_width;
 	vDrawLine = y + 6;
 
 	//Build cycle
