@@ -14,6 +14,9 @@
   ],
   "layers": [
     {"instances":[
+        {"properties":[],"isDnd":false,"objectId":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":0.0,"resourceVersion":"1.0","name":"inst_6EAA384F","tags":[],"resourceType":"GMRInstance",},
+      ],"visible":true,"depth":-1099,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Camera","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oGameL5","path":"objects/oGameL5/oGameL5.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_24A46EC5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCursor","path":"objects/oCursor/oCursor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":128.0,"resourceVersion":"1.0","name":"inst_BA06818","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":-999,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Compatibility_Instances_Depth_-999","tags":[],"resourceType":"GMRInstanceLayer",},
@@ -1312,6 +1315,7 @@
     {"name":"inst_42F47969","path":"rooms/level05/level05.yy",},
     {"name":"inst_24A46EC5","path":"rooms/level05/level05.yy",},
     {"name":"inst_BA06818","path":"rooms/level05/level05.yy",},
+    {"name":"inst_6EAA384F","path":"rooms/level05/level05.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

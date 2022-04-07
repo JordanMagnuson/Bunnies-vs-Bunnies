@@ -113,6 +113,7 @@
     {"id":{"name":"rand","path":"scripts/rand/rand.yy",},"order":13,},
     {"id":{"name":"closeTo","path":"scripts/closeTo/closeTo.yy",},"order":15,},
     {"id":{"name":"saveGame","path":"scripts/saveGame/saveGame.yy",},"order":17,},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":123,},
     {"id":{"name":"loadGame","path":"scripts/loadGame/loadGame.yy",},"order":19,},
     {"id":{"name":"carrotProduction","path":"scripts/carrotProduction/carrotProduction.yy",},"order":21,},
     {"id":{"name":"restartLevelmessage","path":"scripts/restartLevelmessage/restartLevelmessage.yy",},"order":23,},

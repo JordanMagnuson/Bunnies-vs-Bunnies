@@ -4,6 +4,9 @@ function gameCreateEvent() {
 	
 	//Fade room in
 	instance_create(0,0,oFadeIn);
+	
+	// Camera settings.
+	global.SET_CAMERA_HEIGHT_540 = true;	// Force view height to 540, for nice widescreen pixel scaling?
 
 	//Global constants
 	global.SETTLEMENT_COST = 100;
