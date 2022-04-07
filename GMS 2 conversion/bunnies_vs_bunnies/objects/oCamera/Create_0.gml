@@ -108,6 +108,7 @@ if (instance_exists(oPlayer1)) {
 else {
 	show_debug_message("follow false");
 	follow = noone;
+	x = room_width / 2;
 }
 if (global.SET_CAMERA_HEIGHT_540) 
 	y = room_height / 2 + global.HUD_HEIGHT/2;
