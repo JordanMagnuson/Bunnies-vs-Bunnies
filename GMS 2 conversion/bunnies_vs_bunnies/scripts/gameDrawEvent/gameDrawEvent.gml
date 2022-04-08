@@ -29,6 +29,10 @@ function gameDrawEvent() {
 	}
 
 	draw_set_color(c_white);
+	
+	// Don't bother with any of the rest of this if this is the title screen.
+	if (room == titleScreen)
+		exit;	
 
 	//Timer
 	/*
