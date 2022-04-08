@@ -1,2 +1,0 @@
-saveGame();
-game_end();
