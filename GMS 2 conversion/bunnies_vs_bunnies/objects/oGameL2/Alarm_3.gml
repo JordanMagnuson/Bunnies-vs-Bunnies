@@ -1,4 +1,4 @@
-alarm[3] = 30;
+alarm[3] = 1 * room_speed;
 if (global.countAdultBunnies >= 25 && (global.countGreens <= 12))
 {
   instance_create(0,0,oFadeOut);

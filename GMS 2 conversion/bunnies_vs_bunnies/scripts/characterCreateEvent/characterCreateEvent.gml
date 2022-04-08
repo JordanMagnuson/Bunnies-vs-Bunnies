@@ -48,7 +48,7 @@ function characterCreateEvent() {
 	walk_img = 0;
 	walk_spd = 1/2 * 30/room_speed;
 
-	alarm[3] = 150;
+	alarm[3] = 5 * room_speed;
 
 
 }

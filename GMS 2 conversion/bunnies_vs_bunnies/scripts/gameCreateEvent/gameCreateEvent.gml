@@ -52,9 +52,9 @@ function gameCreateEvent() {
 	draw_set_font(global.font5);
 
 	//Alarms
-	alarm[0] = 30;  //General
-	alarm[1] = 30;  //Settlements
-	alarm[2] = 30;  //Timer
+	alarm[0] = 1 * room_speed;  //General
+	alarm[1] = 1 * room_speed;  //Settlements
+	alarm[2] = 1 * room_speed;  //Timer
 
 	//Save progress
 	if (room > titleScreen) 

@@ -7,19 +7,19 @@ function gameStepEvent() {
 	if (alarm[0] <= 0)
 	{
 	  gameAlarm0General();
-	  alarm[0] = 30;
+	  alarm[0] = 1 * room_speed;
 	}
 
 	if (alarm[1] <= 0)
 	{
 	  gameAlarm1Settlements();
-	  alarm[1] = 30;
+	  alarm[1] = 1 * room_speed;
 	}
 
 	if (alarm[2] <= 0)
 	{
 	  gameAlarm2Timer();
-	  alarm[2] = 30;
+	  alarm[2] = 1 * room_speed;
 	}
 
 	//End level
