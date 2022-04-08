@@ -155,6 +155,7 @@
     {"id":{"name":"oSolidBunny","path":"objects/oSolidBunny/oSolidBunny.yy",},"order":39,},
     {"id":{"name":"oSolidGreen","path":"objects/oSolidGreen/oSolidGreen.yy",},"order":41,},
     {"id":{"name":"oGreen","path":"objects/oGreen/oGreen.yy",},"order":57,},
+    {"id":{"name":"ImageLoadBar","path":"extensions/ImageLoadBar/ImageLoadBar.yy",},"order":0,},
     {"id":{"name":"oBunny","path":"objects/oBunny/oBunny.yy",},"order":53,},
     {"id":{"name":"oTurretBullet","path":"objects/oTurretBullet/oTurretBullet.yy",},"order":91,},
     {"id":{"name":"oSolidVert","path":"objects/oSolidVert/oSolidVert.yy",},"order":43,},
