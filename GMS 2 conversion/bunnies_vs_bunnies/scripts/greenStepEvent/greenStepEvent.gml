@@ -1,6 +1,6 @@
 function greenStepEvent() {
 	//Mouse frag
-	if (mouse_button && position_meeting(mouse_x,mouse_y,self))
+	if (instance_exists(oCursor) && mouse_check_button(mb_any) && position_meeting(mouse_x,mouse_y,self))
 	  greenDie(FRAG);
 
 	//Die of thirst

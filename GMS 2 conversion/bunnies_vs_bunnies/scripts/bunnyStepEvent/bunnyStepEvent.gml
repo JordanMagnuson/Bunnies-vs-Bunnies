@@ -3,7 +3,7 @@ function bunnyStepEvent() {
 	if (x > (__view_get( e__VW.XView, 0 ) - 20) && x < (__view_get( e__VW.XView, 0 ) + __view_get( e__VW.WView, 0 ) + 20) && y > (__view_get( e__VW.YView, 0 ) - 20) && y < (__view_get( e__VW.YView, 0 ) + __view_get( e__VW.HView, 0 ) + 20))
 	{
 	  //Mouse frag
-	  if (mouse_button && position_meeting(mouse_x,mouse_y,self))
+	if (instance_exists(oCursor) && mouse_check_button(mb_any) && position_meeting(mouse_x,mouse_y,self))
 	  {
 	    bunnyDie(FRAG);
 	  }
