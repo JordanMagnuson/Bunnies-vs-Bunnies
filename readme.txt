@@ -1,23 +1,33 @@
 ========================================================================
 Bunnies vs. Bunnies
-By Jordan Magnuson
+A game by Jordan Magnuson, Gunsan, 2010
+Updated and re-released in 2022
 NecessaryGames.com
 
 Graphics by Mitchell Hillman
 ========================================================================
 
-Built with:		GameMaker 8.1
+A short but challenging realtime strategy game which is primarily a 
+heavy-handed fable.  
 
-Extensions used:	GM Windows Dialogs (built into GM 8.1)
+Original game built with:	GameMaker 8.1
 
+Ported to:			GameMaker Studio 2 (Version 2022.1.1.610)
 
-The source code for this game is released under the MIT license: use it
-in whatever way you'd like. If you find it helpful, or make anything
-particular with it, I'd love to hear about it! Find me on Twitter at
-@JordanMagnuson
+GameMaker Studio 2 version 2022.1.1.610 installer can be downloaded from:
+https://gms.yoyogames.com/GameMakerStudio-Installer-2022.1.1.610.exe
 
 At last check, GameMaker 8.1 could be downloaded from:
 https://archive.org/details/GameMaker81
+
+
+------------------------------------------------------------------------
+LICENSE
+------------------------------------------------------------------------
+
+The source code for this game is released under the attached MIT license. 
+If you find it helpful, or make anything particular with it, I'd love 
+to hear about it! Find me on Twitter at @JordanMagnuson.
 
 
 ------------------------------------------------------------------------
@@ -37,9 +47,4 @@ normal play. There are only five levels total in the game.
 QUESTIONS, COMMENTS, BUGS?
 ------------------------------------------------------------------------
 
-Contact me at @JordanMagnuson
-
-Thank you for taking the time to play this game!
-
--Jordan Magnuson
- NecessaryGames.com
+Find me on Twitter at @JordanMagnuson.
